@@ -1,14 +1,13 @@
 Hi there 👋
 I’m @TaffyDevs11
 
-I'm a web developer with 3 years of experience in building responsive and user-friendly websites. I'm passionate about learning new technologies and creating web solutions that solve real-world problems. 
+Multidisciplinary Web Developer with 5+ years of experience building and maintaining responsive, user-friendly websites. Skilled in HTML, CSS, and JavaScript, with strong attention to detail in content accuracy,layout, and cross-browser compatibility. Experienced in collaboratingwith international teams, aligning content with brand guidelines, and optimizing for performance and SEO. 
 
 Some of the technologies I use are:
 
 - HTML, CSS and JavaScript
 - React, Vue and Angular
-- Node.js, Express and MongoDB
-- Firebase, AWS and Heroku
+- PHP and MySQL
 
 You can check out some of my projects on my GitHub profile or on my portfolio website. I'm always open to new opportunities and collaborations, so feel free to reach out to me if you want to work together or just say hi 😊
 
